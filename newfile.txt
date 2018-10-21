@@ -1,1 +1,4 @@
+$ newfile.txt
 discard file
+宿州学院
+2015113133
